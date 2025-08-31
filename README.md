@@ -1,14 +1,4 @@
-# Learn Vim Motion
-
-To get started install `Vim` and run:
-
-```sh
-vimtutor
-```
-
-It will open the official guide on how to use Vim and Vim Motion.
-
-## My Progress
+## Lesson 1: Vimtutor
 
 - [x] Lesson 1.1.1: MOVING THE CURSOR ---> [Line 25]
 - [x] Lesson 1.1.2: EXITING VIM ---> [Line 48]

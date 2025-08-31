@@ -46,7 +46,7 @@ It will open the official guide on how to use Vim and Vim Motion.
 - [x] Lesson 1.6.4: COPY AND PASTE TEXT ---> [Line 784]
 - [x] Lesson 1.6.5: SET OPTION ---> [Line 807]
 - [x] Lesson 1.6 SUMMARY ---> [Line 830]
-- [x Lesson 1.7.1: GETTING HELP ---> [Line 853]
+- [x] Lesson 1.7.1: GETTING HELP ---> [Line 853]
 - [x] Lesson 1.7.2: CREATE A STARTUP SCRIPT ---> [Line 876]
 - [x] Lesson 1.7.3: COMPLETION ---> [Line 899]
 - [x] Lesson 1.7 SUMMARY ---> [Line 922]

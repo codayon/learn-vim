@@ -40,6 +40,9 @@
 - [x] Lesson 1.7.2: CREATE A STARTUP SCRIPT ---> [Line 876]
 - [x] Lesson 1.7.3: COMPLETION ---> [Line 899]
 - [x] Lesson 1.7 SUMMARY ---> [Line 922]
+
+## Lesson 2: Vimtutor
+
 - [ ] Lesson 2.1.1: MASTERING TEXT OBJECTS ---> [Line 16]
 - [ ] Lesson 2.1.2: THE NAMED REGISTERS ---> [Line 51]
 - [ ] Lesson 2.1.3: THE EXPRESSION REGISTER ---> [Line 84]

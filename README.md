@@ -43,10 +43,10 @@
 
 ## Lesson 2: Vimtutor
 
-- [ ] Lesson 2.1.1: MASTERING TEXT OBJECTS ---> [Line 16]
-- [ ] Lesson 2.1.2: THE NAMED REGISTERS ---> [Line 51]
-- [ ] Lesson 2.1.3: THE EXPRESSION REGISTER ---> [Line 84]
-- [ ] Lesson 2.1.4: THE NUMBERED REGISTERS ---> [Line 111]
-- [ ] Lesson 2.1.5: SPECIAL REGISTERS ---> [Line 148]
-- [ ] Lesson 2.1.6: THE BEAUTY OF MARKS ---> [Line 194]
-- [ ] Lesson 2.1 SUMMARY ---> [Line 246]
+- [x] Lesson 2.1.1: MASTERING TEXT OBJECTS ---> [Line 16]
+- [x] Lesson 2.1.2: THE NAMED REGISTERS ---> [Line 51]
+- [x] Lesson 2.1.3: THE EXPRESSION REGISTER ---> [Line 84]
+- [x] Lesson 2.1.4: THE NUMBERED REGISTERS ---> [Line 111]
+- [x] Lesson 2.1.5: SPECIAL REGISTERS ---> [Line 148]
+- [x] Lesson 2.1.6: THE BEAUTY OF MARKS ---> [Line 194]
+- [x] Lesson 2.1 SUMMARY ---> [Line 246]
